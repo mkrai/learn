@@ -1,3 +1,2 @@
-# terra
-terraform
+
 # learn
